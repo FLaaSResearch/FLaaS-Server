@@ -1,0 +1,13 @@
+django==3.2.12
+gunicorn
+django-heroku
+djangorestframework
+djangorestframework_simplejwt
+boto3
+django-s3-storage
+whitenoise
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
