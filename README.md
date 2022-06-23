@@ -4,6 +4,7 @@ This is the centralized service component of our FLaaS system. It is designed to
 [Heroku Scheduler addon](https://elements.heroku.com/addons/scheduler) for scheduling actions on 10 mins intervals. Finally, it uses Amazon's S3 for storing the model parameters, performance metrics and website's static files. All client devices are authenticated using Java Web Token (JWT).
 
 For more information about our system, please read the following publications:
+- [FLaaS: Enabling Practical Federated Learning on Mobile Environments](http://arxiv.org/abs/2206.10963)
 - [FLaaS: Federated Learning as a Service](https://arxiv.org/abs/2011.09359)
 - [Demo: FLaaS - Practical Federated Learning as a Service for Mobile Applications](https://dl.acm.org/doi/pdf/10.1145/3508396.3517074)
 
